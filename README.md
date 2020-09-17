@@ -1,6 +1,6 @@
 # DRMTodo
 
-This is a **Todo Api Application** written using Django and Django Rest Framework.
+This is a **Test Api Application** written using Django and Django Rest Framework.
 
 ## Project Dependencies<br />
 [Python](python.org)<br />
