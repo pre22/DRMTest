@@ -1,4 +1,4 @@
-from Todo.TodoApi.models import Hero
+from TodoApi.models import Hero
 from rest_framework import serializers
 
 
